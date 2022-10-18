@@ -32,4 +32,4 @@ int get_size(const char *format, int *i)
 		*i = curr_i;
 
 	return (size);
-}
+
